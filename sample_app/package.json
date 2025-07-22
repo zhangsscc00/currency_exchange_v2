@@ -1,0 +1,17 @@
+{
+  "name": "sample_app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "sample application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "sample",
+    "application"
+  ],
+  "author": "molli",
+  "license": "ISC"
+}
